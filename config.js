@@ -1,9 +1,9 @@
 const CONFIG = {
-    titleWeb: "Hông được X đấy nhe",
+    titleWeb: "Gửi bae <3",
     introTitle: 'Duliy 🥰',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    introDesc: `Trái đất vốn lạ thường,
+    Mà sao em cứ đi nhầm đường,
+    Lạc vào tim anh lẻ loi,
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Thế mình làm ngiu nhau nha🥰.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://520.duliy' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://hopnguyenvan11' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
