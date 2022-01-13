@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Gửi babe <3",
-    introTitle: 'Nguyễn Thị Kim Loan',
+    titleWeb: "Hông được X đấy nhe",
+    introTitle: 'Duliy 🥰',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Thế mình làm ngiu nhau nha🥰.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://520.really' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
